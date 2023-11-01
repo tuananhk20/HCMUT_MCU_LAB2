@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;EXERCISE 4/software_timer.c&apos;" deleteContents="false" description="Delete resource &apos;EXERCISE 4/software_timer.c&apos;" element1="/EXERCISE 4/software_timer.c" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1698842660694"/>&#x0A;<refactoring comment="Delete resource &apos;EXERCISE 4/software_timer.c&apos;" deleteContents="false" description="Delete resource &apos;EXERCISE 4/software_timer.c&apos;" element1="/EXERCISE 4/software_timer.c" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1698842678217"/>
+</session>
